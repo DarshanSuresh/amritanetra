@@ -28,19 +28,10 @@ pip install -r requirements.txt
 ## 🧰 Technologies Used
 
 * **NumPy**
-  ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
-
 * **Pandas**
-  ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
-
 * **Matplotlib**
-  ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
-
 * **Scikit-Learn**
-  ![Scikit-Learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
-
 * **Flask**
-  ![Flask](https://encrypted-tbn0.gstatic.com/images?q=tbn\:ANd9GcScq-xocLctL07Jy0tpR_p9w0Q42_rK1aAkNfW6sm3ucjFKWML39aaJPgdhadyCnEiK7vw\&usqp=CAU)
 
 ## 🤖 AI Bot Integration (Our Novelty)
 
@@ -54,7 +45,7 @@ The system begins by retrieving URLs to be analyzed. These are submitted through
 
 Several models were trained and compared to identify phishing websites. The best-performing model classifies URLs as either phishing or legitimate based on a learned decision boundary. Predictions are displayed on the front-end interface.
 
-📄 **Refer `Phishingproject.ipynb` for detailed implementation and training.**
+📄 **Refer `amritanetra.ipynb` for detailed implementation and training.**
 
 ## 📊 Results
 
