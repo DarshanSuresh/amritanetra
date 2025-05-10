@@ -15,7 +15,7 @@ Phishing is a prevalent cyber threat that manipulates users into trusting malici
 | 💧 **Watering Hole Attack** | ❌ | | 🔤 **DNS Spoofing** | ✅ |
 | 🦠 **Malware** | ✅ | | 🖱️ **Clickjacking** | ✅ |
 | 👥 **Social Engineering** | ✅ | | 💾 **Drive-By Download** | ✅ |
-|  |  | | 💥 **Zero-Day Attack** | ✅ |
+| 💥 **Zero-Day Attack** | ✅ | | | ✅ |
 
 ## ⚙️ Installation
 
