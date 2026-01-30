@@ -1,4 +1,4 @@
-# AMRITANETRA – Amrita Network Threat Recognition & Analysis
+# AMRITANETRA – Amrita Network Threat Recognition & Analysis 
 
 ## 🎯 Objective
 
